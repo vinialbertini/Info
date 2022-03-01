@@ -1,0 +1,15 @@
+program TesteInfo;
+
+uses
+  Vcl.Forms,
+  uPrincipal in 'uPrincipal.pas' {Form3},
+  uClienteModel in 'uClienteModel.pas';
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm3, Form3);
+  Application.Run;
+end.

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/17 10:36:58.000.964,=C:\Users\Vinicius\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2021/09/17 10:37:06.000.981,=C:\Users\Vinicius\Documents\Embarcadero\Studio\Projects\ServerConst1.pas</Transaction>
+    <Transaction>2022/02/28 16:20:47.000.849,=C:\Users\Vinicius\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/02/28 16:23:34.608,=C:\Users\Vinicius\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/02/28 16:24:17.333,C:\TesteInfo\uPrincipal.pas=C:\Users\Vinicius\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/02/28 16:24:17.333,C:\TesteInfo\uPrincipal.dfm=C:\Users\Vinicius\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2022/02/28 16:24:34.330,C:\TesteInfo\TesteInfo.dproj=C:\Users\Vinicius\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2022/02/28 16:25:08.916,=C:\TesteInfo\uClienteModel.pas</Transaction>
+  </Transactions>
+</BorlandProject>
